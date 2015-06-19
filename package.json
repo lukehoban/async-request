@@ -2,7 +2,7 @@
   "name": "async-request",
   "description": "async-request is a wrapper for request that uses ES7 async functions.",
   "version": "1.2.0",
-  "main": "src/main.js",
+  "main": "dist/main.js",
   "author": {
     "name": "Gajus Kuizinas",
     "email": "gk@anuary.com",
