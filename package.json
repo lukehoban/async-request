@@ -22,7 +22,6 @@
   "devDependencies": {
     "babel": "^4.7.16",
     "babel-eslint": "^2.0.2",
-    "babel-runtime": "^4.7.16",
     "chai": "^2.1.2",
     "gulp": "^3.8.11",
     "gulp-babel": "^4.0.0",
@@ -33,6 +32,7 @@
     "nock": "^1.2.1"
   },
   "dependencies": {
+    "babel-runtime": "^4.7.16",
     "lodash": "^3.5.0",
     "request": "^2.53.0",
     "tough-cookie": "^0.12.1"
